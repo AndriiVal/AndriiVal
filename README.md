@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Andrii Valchuk</h1>
+
+## <img align="left" src="https://img.icons8.com/ios-filled/50/000000/github.png"/> GitHub
+
+## 🧬 About Me
 
 <!--
 **AndriiVal/AndriiVal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠 Languages and Tools:
