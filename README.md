@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii Valchuk</h1>
 
 ### 🗣 My activity:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriiVal&show_icons=true&locale=en&layout=compact&theme=radical" alt="AndriiVal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndriiVal&show_icons=true&locale=en&theme=radical" alt="AndriiVal" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriiVal&show_icons=true&locale=en&layout=compact&theme=radical" alt="AndriiVal" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AndriiVal&show_icons=true&locale=en&theme=radical" alt="AndriiVal" /></p>
 
 ***
 
