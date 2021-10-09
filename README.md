@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii Valchuk</h1>
-<h3 align="center">I love coding  :computer:, electronics :electric_plug: and guitars :guitar:</h3>
+<h3 align="center">I love programming  :computer:, electronics :electric_plug: and guitars :guitar:</h3>
 
 ### 🗣 My activity:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriiVal&show_icons=true&locale=en&layout=compact" alt="AndriiVal" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AndriiVal&show_icons=true&locale=en" alt="AndriiVal" /></p>
